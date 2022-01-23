@@ -19,7 +19,7 @@ Sou formada em Ciências Contábeis e atualmente estou cursando o curso Tecnólo
 ## Projetos:
 Veja abaixo alguns projetos que fiz:
 
-* **Análise de Gastos de Operadoras de Plano de Saúde:** https://drive.google.com/file/d/16lly4fo9Eu80WNZIf-QCuoNkpz8wmRUI/view?usp=sharing
+* **Análise de Gastos de Operadoras de Plano de Saúde:** https://bit.ly/3fPpWvx
 
 
 ---
